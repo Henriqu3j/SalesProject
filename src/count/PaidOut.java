@@ -1,5 +1,5 @@
 package count;
 
-public class PaidOut {
+public enum PaidOut {
 
 }

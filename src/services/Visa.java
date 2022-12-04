@@ -1,5 +1,5 @@
 package services;
 
-public class Visa {
+public class Visa extends AbstractService {
 
 }

@@ -1,5 +1,5 @@
 package services;
 
-public class AbstractService {
+public class AbstractService implements CreditCardFlag {
 
 }

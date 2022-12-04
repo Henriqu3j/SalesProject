@@ -1,5 +1,5 @@
 package count;
 
-public class PaymentMethod {
-
+public enum PaymentMethod {
+MONEY , CREDIT;
 }

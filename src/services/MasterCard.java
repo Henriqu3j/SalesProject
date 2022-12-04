@@ -1,5 +1,5 @@
 package services;
 
-public class MasterCard {
+public class MasterCard extends AbstractService {
 
 }

@@ -1,5 +1,5 @@
 package count;
 
-public class SaleStatus {
-
+public enum SaleStatus {
+STARTING , PROCESSING , PRINT , FINISHED;
 }
